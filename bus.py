@@ -1,11 +1,17 @@
 LONGITUD_PISTA = 120
 
 class Bus:
+    '''
+    Clase para un bus que competira en la carrera
+    '''
     def __init__(self):
         self.posicion = 0
 
     @staticmethod
     def dibujar_inicio_pista():
+        '''
+        Método estático para dibujar longitud de la pista.
+        '''
         print('-' * LONGITUD_PISTA)
 
     def dibujar_bus(self, desfase, nombre):

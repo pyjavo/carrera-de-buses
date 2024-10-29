@@ -3,6 +3,9 @@ import os, random, time
 from bus import Bus
 
 def limpiar_consola():
+    '''
+        Limpiar la consola en windows, linux o macOS.
+    '''
     if os.name == 'nt':
         os.system('cls')
     else:
