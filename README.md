@@ -1,15 +1,18 @@
-Carrera de buses
+# Carrera de buses
 
 El proyecto es una practica de programación orientada a objetos con una animación usando un ciclo while
 
-Como instalarlo
+## Como instalarlo
 - Clonar el repositorio
 
-Como correrlo en local
+## Como correrlo en local
 - python main.py
 
-Licencia
+## Licencia
 MIT
 
-Contribuidores
+## Contribuidores
 - Inspirado en video de "píldoras de programación"
+
+## Referencia
+- [Curso javierdaza.co/cursos](https://javierdaza.co/cursos/)
